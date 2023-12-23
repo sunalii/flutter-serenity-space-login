@@ -1,6 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_serenity_space_login/login_register_page.dart';
+import 'package:flutter_serenity_space_login/pages/login_register_page.dart';
 
 class RegisterPage extends StatelessWidget {
   const RegisterPage({super.key});

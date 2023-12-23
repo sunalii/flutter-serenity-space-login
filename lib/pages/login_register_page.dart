@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_serenity_space_login/login_page.dart';
-import 'package:flutter_serenity_space_login/register_page.dart';
+import 'package:flutter_serenity_space_login/pages/login_page.dart';
+import 'package:flutter_serenity_space_login/pages/register_page.dart';
 
 class LoginRegisterPage extends StatelessWidget {
   final int initialIndex;
