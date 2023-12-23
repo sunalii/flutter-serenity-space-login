@@ -1,6 +1,4 @@
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_serenity_space_login/pages/login_register_page.dart';
 import 'package:flutter_serenity_space_login/pages/onboarding_page.dart';
 
 void main() {
